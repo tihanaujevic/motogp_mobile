@@ -1,0 +1,3942 @@
+[
+  {
+    "Rider": "Giacomo Agostini",
+    "Victories": 122,
+    "NumberofSecond": 67,
+    "NumberofThird": 53,
+    "Numberof4th": 48,
+    "Numberof5th": 34,
+    "Numberof6th": 24,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Valentino Rossi",
+    "Victories": 115,
+    "NumberofSecond": 52,
+    "NumberofThird": 47,
+    "Numberof4th": 38,
+    "Numberof5th": 30,
+    "Numberof6th": 21,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Angel Nieto",
+    "Victories": 90,
+    "NumberofSecond": 51,
+    "NumberofThird": 40,
+    "Numberof4th": 35,
+    "Numberof5th": 25,
+    "Numberof6th": 21,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Marc Marquez",
+    "Victories": 85,
+    "NumberofSecond": 44,
+    "NumberofThird": 36,
+    "Numberof4th": 28,
+    "Numberof5th": 23,
+    "Numberof6th": 21,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Mike Hailwood",
+    "Victories": 76,
+    "NumberofSecond": 41,
+    "NumberofThird": 33,
+    "Numberof4th": 26,
+    "Numberof5th": 22,
+    "Numberof6th": 20,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jorge Lorenzo",
+    "Victories": 68,
+    "NumberofSecond": 39,
+    "NumberofThird": 28,
+    "Numberof4th": 25,
+    "Numberof5th": 22,
+    "Numberof6th": 20,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Mick Doohan",
+    "Victories": 54,
+    "NumberofSecond": 36,
+    "NumberofThird": 27,
+    "Numberof4th": 24,
+    "Numberof5th": 22,
+    "Numberof6th": 19,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Dani Pedrosa",
+    "Victories": 54,
+    "NumberofSecond": 35,
+    "NumberofThird": 26,
+    "Numberof4th": 22,
+    "Numberof5th": 21,
+    "Numberof6th": 19,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Phil Read",
+    "Victories": 52,
+    "NumberofSecond": 35,
+    "NumberofThird": 25,
+    "Numberof4th": 22,
+    "Numberof5th": 21,
+    "Numberof6th": 18,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Casey Stoner",
+    "Victories": 45,
+    "NumberofSecond": 35,
+    "NumberofThird": 25,
+    "Numberof4th": 21,
+    "Numberof5th": 20,
+    "Numberof6th": 17,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Jim Redman",
+    "Victories": 45,
+    "NumberofSecond": 34,
+    "NumberofThird": 25,
+    "Numberof4th": 20,
+    "Numberof5th": 19,
+    "Numberof6th": 17,
+    "Country": ""
+  },
+  {
+    "Rider": "Max Biaggi",
+    "Victories": 42,
+    "NumberofSecond": 33,
+    "NumberofThird": 22,
+    "Numberof4th": 20,
+    "Numberof5th": 18,
+    "Numberof6th": 16,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Anton Mang",
+    "Victories": 42,
+    "NumberofSecond": 33,
+    "NumberofThird": 20,
+    "Numberof4th": 19,
+    "Numberof5th": 18,
+    "Numberof6th": 16,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Carlo Ubbiali",
+    "Victories": 39,
+    "NumberofSecond": 31,
+    "NumberofThird": 20,
+    "Numberof4th": 19,
+    "Numberof5th": 18,
+    "Numberof6th": 16,
+    "Country": "IT"
+  },
+  {
+    "Rider": "John Surtees",
+    "Victories": 38,
+    "NumberofSecond": 31,
+    "NumberofThird": 20,
+    "Numberof4th": 19,
+    "Numberof5th": 17,
+    "Numberof6th": 16,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jorge Martinez",
+    "Victories": 37,
+    "NumberofSecond": 27,
+    "NumberofThird": 20,
+    "Numberof4th": 19,
+    "Numberof5th": 17,
+    "Numberof6th": 16,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Luca Cadalora",
+    "Victories": 34,
+    "NumberofSecond": 26,
+    "NumberofThird": 19,
+    "Numberof4th": 18,
+    "Numberof5th": 17,
+    "Numberof6th": 16,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Geoff Duke",
+    "Victories": 33,
+    "NumberofSecond": 25,
+    "NumberofThird": 19,
+    "Numberof4th": 17,
+    "Numberof5th": 17,
+    "Numberof6th": 15,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Eddie Lawson",
+    "Victories": 31,
+    "NumberofSecond": 25,
+    "NumberofThird": 19,
+    "Numberof4th": 17,
+    "Numberof5th": 17,
+    "Numberof6th": 15,
+    "Country": "US"
+  },
+  {
+    "Rider": "Kork Ballington",
+    "Victories": 31,
+    "NumberofSecond": 25,
+    "NumberofThird": 19,
+    "Numberof4th": 17,
+    "Numberof5th": 16,
+    "Numberof6th": 15,
+    "Country": "ZA"
+  },
+  {
+    "Rider": "Luigi Taveri",
+    "Victories": 30,
+    "NumberofSecond": 24,
+    "NumberofThird": 19,
+    "Numberof4th": 16,
+    "Numberof5th": 16,
+    "Numberof6th": 15,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Loris Capirossi",
+    "Victories": 29,
+    "NumberofSecond": 23,
+    "NumberofThird": 18,
+    "Numberof4th": 16,
+    "Numberof5th": 16,
+    "Numberof6th": 15,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Pierpaolo Bianchi",
+    "Victories": 27,
+    "NumberofSecond": 23,
+    "NumberofThird": 18,
+    "Numberof4th": 16,
+    "Numberof5th": 16,
+    "Numberof6th": 14,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Freddie Spencer",
+    "Victories": 27,
+    "NumberofSecond": 23,
+    "NumberofThird": 18,
+    "Numberof4th": 16,
+    "Numberof5th": 16,
+    "Numberof6th": 14,
+    "Country": "US"
+  },
+  {
+    "Rider": "Eugenio Lazzarini",
+    "Victories": 27,
+    "NumberofSecond": 23,
+    "NumberofThird": 17,
+    "Numberof4th": 16,
+    "Numberof5th": 16,
+    "Numberof6th": 14,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Hugh Anderson",
+    "Victories": 25,
+    "NumberofSecond": 22,
+    "NumberofThird": 17,
+    "Numberof4th": 16,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Maverick Viñales",
+    "Victories": 25,
+    "NumberofSecond": 22,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Kevin Schwantz",
+    "Victories": 25,
+    "NumberofSecond": 22,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "US"
+  },
+  {
+    "Rider": "Andrea Dovizioso",
+    "Victories": 24,
+    "NumberofSecond": 21,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Kenny Roberts",
+    "Victories": 24,
+    "NumberofSecond": 21,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "US"
+  },
+  {
+    "Rider": "Wayne Rainey",
+    "Victories": 24,
+    "NumberofSecond": 20,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 15,
+    "Numberof6th": 14,
+    "Country": "US"
+  },
+  {
+    "Rider": "Walter Villa",
+    "Victories": 24,
+    "NumberofSecond": 20,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 14,
+    "Numberof6th": 14,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Barry Sheene",
+    "Victories": 23,
+    "NumberofSecond": 20,
+    "NumberofThird": 17,
+    "Numberof4th": 15,
+    "Numberof5th": 14,
+    "Numberof6th": 14,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Marco Melandri",
+    "Victories": 22,
+    "NumberofSecond": 19,
+    "NumberofThird": 16,
+    "Numberof4th": 14,
+    "Numberof5th": 14,
+    "Numberof6th": 13,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Bill Ivy",
+    "Victories": 21,
+    "NumberofSecond": 17,
+    "NumberofThird": 16,
+    "Numberof4th": 14,
+    "Numberof5th": 14,
+    "Numberof6th": 13,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Fausto Gresini",
+    "Victories": 21,
+    "NumberofSecond": 17,
+    "NumberofThird": 16,
+    "Numberof4th": 14,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Ralf Waldmann",
+    "Victories": 20,
+    "NumberofSecond": 17,
+    "NumberofThird": 16,
+    "Numberof4th": 14,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Tarquinio Provini",
+    "Victories": 20,
+    "NumberofSecond": 17,
+    "NumberofThird": 15,
+    "Numberof4th": 14,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Alex Criville",
+    "Victories": 20,
+    "NumberofSecond": 17,
+    "NumberofThird": 15,
+    "Numberof4th": 13,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Gary Hocking",
+    "Victories": 19,
+    "NumberofSecond": 17,
+    "NumberofThird": 15,
+    "Numberof4th": 13,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": ""
+  },
+  {
+    "Rider": "Ricardo Tormo",
+    "Victories": 19,
+    "NumberofSecond": 17,
+    "NumberofThird": 15,
+    "Numberof4th": 13,
+    "Numberof5th": 13,
+    "Numberof6th": 13,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Carlos Lavado",
+    "Victories": 19,
+    "NumberofSecond": 16,
+    "NumberofThird": 14,
+    "Numberof4th": 13,
+    "Numberof5th": 13,
+    "Numberof6th": 12,
+    "Country": "VE"
+  },
+  {
+    "Rider": "Kent Andersson",
+    "Victories": 18,
+    "NumberofSecond": 16,
+    "NumberofThird": 14,
+    "Numberof4th": 13,
+    "Numberof5th": 13,
+    "Numberof6th": 12,
+    "Country": "SE"
+  },
+  {
+    "Rider": "Stefan Dörflinger",
+    "Victories": 18,
+    "NumberofSecond": 16,
+    "NumberofThird": 14,
+    "Numberof4th": 13,
+    "Numberof5th": 12,
+    "Numberof6th": 12,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Wayne Gardner",
+    "Victories": 18,
+    "NumberofSecond": 16,
+    "NumberofThird": 14,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 12,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Toni Elias",
+    "Victories": 17,
+    "NumberofSecond": 15,
+    "NumberofThird": 14,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 12,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Brad Binder",
+    "Victories": 17,
+    "NumberofSecond": 15,
+    "NumberofThird": 14,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 12,
+    "Country": "ZA"
+  },
+  {
+    "Rider": "Daijiro Kato",
+    "Victories": 17,
+    "NumberofSecond": 15,
+    "NumberofThird": 14,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 12,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Thomas Luthi",
+    "Victories": 17,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Tetsuya Harada",
+    "Victories": 17,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Alvaro Bautista",
+    "Victories": 16,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Miguel Oliveira",
+    "Victories": 16,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "PT"
+  },
+  {
+    "Rider": "Mika Kallio",
+    "Victories": 16,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "FI"
+  },
+  {
+    "Rider": "Nicolas Terol",
+    "Victories": 16,
+    "NumberofSecond": 15,
+    "NumberofThird": 13,
+    "Numberof4th": 12,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Johann Zarco",
+    "Victories": 16,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Pol Espargaro",
+    "Victories": 15,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 12,
+    "Numberof6th": 11,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Sito Pons",
+    "Victories": 15,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 11,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Ernst Degner",
+    "Victories": 15,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 11,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Jarno Saarinen",
+    "Victories": 15,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 11,
+    "Country": "FI"
+  },
+  {
+    "Rider": "Alex Rins",
+    "Victories": 15,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Francesco Bagnaia",
+    "Victories": 14,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jan De Vries",
+    "Victories": 14,
+    "NumberofSecond": 14,
+    "NumberofThird": 13,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Johnny Cecotto",
+    "Victories": 14,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "VE"
+  },
+  {
+    "Rider": "Hans-Georg Anscheidt",
+    "Victories": 14,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Dieter Braun",
+    "Victories": 14,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 11,
+    "Numberof6th": 10,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Marco Simoncelli",
+    "Victories": 14,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Dirk Raudies",
+    "Victories": 14,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "DE"
+  },
+  {
+    "Rider": "John Kocinski",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "US"
+  },
+  {
+    "Rider": "Randy Mamola",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "US"
+  },
+  {
+    "Rider": "Tito Rabat",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Andrea Iannone",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Noboru Ueda",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 11,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Romano Fenati",
+    "Victories": 13,
+    "NumberofSecond": 13,
+    "NumberofThird": 12,
+    "Numberof4th": 10,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Alex Marquez",
+    "Victories": 12,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Mattia Pasini",
+    "Victories": 12,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 10,
+    "Numberof6th": 10,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Fergus Anderson",
+    "Victories": 12,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Joan Mir",
+    "Victories": 12,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Manuel Poggiali",
+    "Victories": 12,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "SM"
+  },
+  {
+    "Rider": "Kazuto Sakata",
+    "Victories": 11,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Jorge Martin",
+    "Victories": 11,
+    "NumberofSecond": 12,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Youichi Ui",
+    "Victories": 11,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Takazumi Katayama",
+    "Victories": 11,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Franco Morbidelli",
+    "Victories": 11,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Dave Simmonds",
+    "Victories": 11,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Werner Haas",
+    "Victories": 11,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Fabio Quartararo",
+    "Victories": 10,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Hector Barbera",
+    "Victories": 10,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Raul Fernandez",
+    "Victories": 10,
+    "NumberofSecond": 11,
+    "NumberofThird": 11,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Masao Azuma",
+    "Victories": 10,
+    "NumberofSecond": 11,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Greg Hansford",
+    "Victories": 10,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Rodney Gould",
+    "Victories": 10,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Ralph Bryans",
+    "Victories": 10,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 9,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Sete Gibernau",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Bill Lomas",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 10,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Haruchika Aoki",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Gabor Talmacsi",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "HU"
+  },
+  {
+    "Rider": "Ezio Gianola",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Luis Salom",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Jack Miller",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Roberto Locatelli",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Hiroshi Aoyama",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Sam Lowes",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Hans Spaan",
+    "Victories": 9,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Enea Bastianini",
+    "Victories": 8,
+    "NumberofSecond": 10,
+    "NumberofThird": 10,
+    "Numberof4th": 9,
+    "Numberof5th": 9,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Teuvo Lansivuori",
+    "Victories": 8,
+    "NumberofSecond": 10,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "FI"
+  },
+  {
+    "Rider": "Hector Faubel",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Loris Reggiani",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Leslie Graham",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Danny Kent",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Kenny Roberts Jr",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "US"
+  },
+  {
+    "Rider": "Paolo Pileri",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Julian Simon",
+    "Victories": 8,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Christian Sarron",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Enrico Lorenzetti",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Franco Uncini",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Dennis Foggia",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Alex Barros",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 8,
+    "Numberof6th": 8,
+    "Country": "BR"
+  },
+  {
+    "Rider": "Henk Van Kessel",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Lucio Cecchinello",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Kel Carruthers",
+    "Victories": 7,
+    "NumberofSecond": 9,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Chas Mortimer",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 9,
+    "Numberof4th": 9,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Stefan Bradl",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 9,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Jonnie Ekerold",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 9,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "ZA"
+  },
+  {
+    "Rider": "Olivier Jacque",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 9,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Sandro Cortese",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 9,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Sebastian Porto",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "AR"
+  },
+  {
+    "Rider": "Reg Armstrong",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Arnaud Vincent",
+    "Victories": 7,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Marco Lucchinelli",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Sergio Garcia",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Ray Amm",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": ""
+  },
+  {
+    "Rider": "Aron Canet",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Guy Bertin",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Marco Bezzecchi",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Shinya Nakano",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Renzo Pasolini",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Libero Liberati",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Albert Arenas",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Luca Marini",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Remy Gardner",
+    "Victories": 6,
+    "NumberofSecond": 8,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Pedro Acosta",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Doriano Romboni",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Tadayuki Okada",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Manfred Herweh",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Tom Phillis",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Aalt Toersen",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 8,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Tomomi Manako",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Umberto Masetti",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Mike Di Meglio",
+    "Victories": 6,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Cecyl Sandford",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jonas Folger",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 8,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Simone Corsi",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Garry Mccoy",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 7,
+    "Numberof6th": 7,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Lorenzo Dalla Porta",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 7,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Masaki Tokudome",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 7,
+    "Numberof6th": 6,
+    "Country": "JP"
+  },
+  {
+    "Rider": "John Hartle",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 7,
+    "Numberof6th": 6,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Peter Oettl",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Tohru Ukawa",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Rupert Hollaus",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "AT"
+  },
+  {
+    "Rider": "Pierfrancesco Chili",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Bob Mcintyre",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Freddie Frith",
+    "Victories": 5,
+    "NumberofSecond": 7,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Carlos Cardús",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Lorenzo Baldassarri",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Wil Hartog",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Takeshi Tsujimura",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Jean Francois Baldé",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Bruno Kneubühler",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Fonsi Nieto",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Eric Granado",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 7,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "BR"
+  },
+  {
+    "Rider": "Dario Ambrosini",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jaume Masia",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "ES"
+  },
+  {
+    "Rider": "August Auinger",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "AT"
+  },
+  {
+    "Rider": "Helmut Bradl",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Randy De Puniet",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Matteo Ferrari",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Ken Kavanagh",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Stefano Perugini",
+    "Victories": 5,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Herbert Rittberger",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Nello Pagani",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 7,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Nello Pagani",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Yoshimi Katayama",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Alex De Angelis",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "SM"
+  },
+  {
+    "Rider": "Paul Lodewijkx",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Gilberto Parlotti",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Didier De Radigues",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "BE"
+  },
+  {
+    "Rider": "Franta Stastny",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": ""
+  },
+  {
+    "Rider": "Dominique Sarron",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Gerhard Waibel",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Janos Drapal",
+    "Victories": 4,
+    "NumberofSecond": 6,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 6,
+    "Country": "HU"
+  },
+  {
+    "Rider": "Santiago Herrero",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Tony Arbolino",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Borje Jansson",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 5,
+    "Country": "SE"
+  },
+  {
+    "Rider": "John Dodds",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 6,
+    "Numberof6th": 5,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Barry Smith",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Niccolò Antonelli",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Bruno Ruffo",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Kuninitsu Takahashi",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Emilio Alzamora",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Roberto Rolfo",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Scott Redding",
+    "Victories": 4,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Norick Abe",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Simone Sanna",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Michel Rougerie",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "FR"
+  },
+  {
+    "Rider": "John Mcphee",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Julien Van Zeebroeck",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "BE"
+  },
+  {
+    "Rider": "Silvio Grassetti",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 6,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Augusto Fernandez",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Reinhold Roth",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Theo Timmer",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Dominique Aegerter",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 6,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Frank Perris",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Maurice Cann",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Sergio Gadea",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Gianni Leoni",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Charlie Williams",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Alessandro Gramigni",
+    "Victories": 3,
+    "NumberofSecond": 5,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Graziano Rossi",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Martin Wimmer",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Otello Buscherini",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Nicky Hayden",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "US"
+  },
+  {
+    "Rider": "Mike Duff",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "CA"
+  },
+  {
+    "Rider": "Bradley Smith",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Tommy Robb",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Cal Crutchlow",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jean Philippe Ruggia",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Daryl Beattie",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Jack Findlay",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Jordi Torres",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Mike Grant",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Yuki Takahashi",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Emilio Mendogni",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jacques Cornu",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Pat Hennen",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "US"
+  },
+  {
+    "Rider": "Hideo Kanaya",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Juan Garriga",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Patrick Fernandez",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 5,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 5,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Bob Foster",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Alberto Pagani",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Fabio Di Giannantonio",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Keith Campbell",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Alfredo Milani",
+    "Victories": 3,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jorge Navarro",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Alan Shepherd",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Herri Torrontegui",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Alberto Gandossi",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 5,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Maurizio Vitali",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Arthur Wheeler",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Efren Vazquez",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "William Doran",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 5,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Dickie Dale",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Danilo Petrucci",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Lukas Pesek",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "CZ"
+  },
+  {
+    "Rider": "Eric Saul",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Salvador Cañellas",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Ivan Palazzese",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "VE"
+  },
+  {
+    "Rider": "Tatsuki Suzuki",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Gianluigi Scalvini",
+    "Victories": 2,
+    "NumberofSecond": 4,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Helmut Kassner",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Carlos Checa",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Jack Middelburg",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Pierre Monneret",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Anthony West",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Tommy Wood",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jan Huberts",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Cromie Mccandless",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Tom Herron",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Stuart Graham",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Niki Tuuli",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FI"
+  },
+  {
+    "Rider": "Virginio Ferrari",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Takaaki Nakagami",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Makoto Tamada",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Alexis Masbou",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Gianfranco Bonera",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Mitsuo Itoh",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Angelo Bergamonti",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Andrea Migno",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Tony Rutter",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Marcos Ramirez",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Alex Debon",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Khairul Idham Pawi",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "MT"
+  },
+  {
+    "Rider": "Manuel Herreros",
+    "Victories": 2,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Steve Jenkner",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Jean Aureal",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Rod Coleman",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Herve Guilleux",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Ray Mccullough",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Domenico Brigaglia",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Karel Abraham",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 4,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "CZ"
+  },
+  {
+    "Rider": "Kenjiro Tanaka",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Harold Daniell",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 4,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Ginger Molloy",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Guido Leoni",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 4,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Peter Williams",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Horst Fügner",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Leif Gustafsson",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "SE"
+  },
+  {
+    "Rider": "Alan North",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "ZA"
+  },
+  {
+    "Rider": "Cees Van Dongen",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Lukas Tulovic",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Jules Cluzel",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Lukas Tulovic",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Nobuatsu Aoki",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 4,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Paolo Casoli",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "John Newbold",
+    "Victories": 1,
+    "NumberofSecond": 3,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Simon Crafar",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Victor Palomo",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Wilco Zeelenberg",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Alessandro Zaccone",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jan Bruins",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Remo Venturi",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Gerhard Thurow",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Isao Morishita",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Izan Guevara",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Xavier Simeon",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "BE"
+  },
+  {
+    "Rider": "Osamu Miyazaki",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Kevin Magee",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Ulrich Graf",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Roland Felgenheier",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Ben Spies",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "US"
+  },
+  {
+    "Rider": "Edmund Czihak",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Edmund Czihak",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Bert Schneider",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AT"
+  },
+  {
+    "Rider": "Kaito Toba",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Jack Brett",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Darryn Binder",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ZA"
+  },
+  {
+    "Rider": "Ken Mudford",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Jean Claude Selini",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Jos Schurgers",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Jorge Kissling",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AR"
+  },
+  {
+    "Rider": "Andrea Ballerini",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Artie Bell",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Bruno Casanova",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Edi Stoellinger",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AT"
+  },
+  {
+    "Rider": "Louis Rossi",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Ian Mcconnachie",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Pier Luigi Conforti",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Ivan Goi",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Michel Frutschi",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Adu Celso-santos",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "BR"
+  },
+  {
+    "Rider": "Pentti Korhonen",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "FI"
+  },
+  {
+    "Rider": "Mario Lega",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Alan Carter",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 3,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Horoshi Hasegawa",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Troy Bayliss",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Bruno Spaggiari",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Tadahiko Taira",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Pablo Nieto",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Godfrey Nash",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Guido Sala",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Shoya Tomizawa",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Jacques Bolle",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Manliefe Barrington",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IE"
+  },
+  {
+    "Rider": "Jeremy Mcwilliams",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 3,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Masaru Kobayashi",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Xavier Artigas",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Benjamin Grau",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Benedicto Caldarella",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AR"
+  },
+  {
+    "Rider": "Chris Vermeulen",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Stefan Prein",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Miquel Pons",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Michele Pirro",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Fausto Ricci",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Stefan Prein",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Alberto Puig",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Tomoyoshi Koyama",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Hermann Paul Müller",
+    "Victories": 1,
+    "NumberofSecond": 2,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Somkiat Chantra",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "TH"
+  },
+  {
+    "Rider": "Fritz Reitmaier",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Fumio Ito",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Roland Freymond",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Jim Filice",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "US"
+  },
+  {
+    "Rider": "Olivier Chevallier",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 3,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Tony Jefferies",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Duilio Agostini",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Aleix Espargaro",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "ES"
+  },
+  {
+    "Rider": "Gerd Kafka",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "AT"
+  },
+  {
+    "Rider": "Ingo Emmerich",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Philipp Oettl",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "DE"
+  },
+  {
+    "Rider": "Boet Van Dulmen",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "NL"
+  },
+  {
+    "Rider": "Kim Newcombe",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Livio Loi",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "BE"
+  },
+  {
+    "Rider": "John Williams",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Dennis Ireland",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "NZ"
+  },
+  {
+    "Rider": "Romolo Ferri",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Phil Carpenter",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Jack Ahearn",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "AU"
+  },
+  {
+    "Rider": "Angelo Copeta",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "IT"
+  },
+  {
+    "Rider": "Jean Louis Tournadre",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 3,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Derek Minter",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "GB"
+  },
+  {
+    "Rider": "Tetsuta Nagashima",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "JP"
+  },
+  {
+    "Rider": "Gyula Marsovszky",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "CH"
+  },
+  {
+    "Rider": "Regis Laconi",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "FR"
+  },
+  {
+    "Rider": "Can öncü",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "TR"
+  },
+  {
+    "Rider": "R. Creith",
+    "Victories": 1,
+    "NumberofSecond": 1,
+    "NumberofThird": 2,
+    "Numberof4th": 2,
+    "Numberof5th": 2,
+    "Numberof6th": 2,
+    "Country": "IE"
+  }
+]

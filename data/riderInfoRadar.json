@@ -1,0 +1,10674 @@
+[
+  {
+    "name": "AGOSTINI Giacomo",
+    "data": [
+      {
+        "value": 122,
+        "label": "Victories"
+      },
+      {
+        "value": 35,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 117,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 15,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROSSI Valentino",
+    "data": [
+      {
+        "value": 115,
+        "label": "Victories"
+      },
+      {
+        "value": 67,
+        "label": "2nd places"
+      },
+      {
+        "value": 53,
+        "label": "3rd places"
+      },
+      {
+        "value": 65,
+        "label": "Pole positions"
+      },
+      {
+        "value": 96,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 9,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NIETO Angel",
+    "data": [
+      {
+        "value": 90,
+        "label": "Victories"
+      },
+      {
+        "value": 35,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 34,
+        "label": "Pole positions"
+      },
+      {
+        "value": 81,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 13,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARQUEZ Marc",
+    "data": [
+      {
+        "value": 85,
+        "label": "Victories"
+      },
+      {
+        "value": 36,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 90,
+        "label": "Pole positions"
+      },
+      {
+        "value": 75,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 8,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HAILWOOD Mike",
+    "data": [
+      {
+        "value": 76,
+        "label": "Victories"
+      },
+      {
+        "value": 25,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 79,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 9,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LORENZO Jorge",
+    "data": [
+      {
+        "value": 68,
+        "label": "Victories"
+      },
+      {
+        "value": 51,
+        "label": "2nd places"
+      },
+      {
+        "value": 33,
+        "label": "3rd places"
+      },
+      {
+        "value": 69,
+        "label": "Pole positions"
+      },
+      {
+        "value": 37,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 5,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PEDROSA Dani",
+    "data": [
+      {
+        "value": 54,
+        "label": "Victories"
+      },
+      {
+        "value": 52,
+        "label": "2nd places"
+      },
+      {
+        "value": 47,
+        "label": "3rd places"
+      },
+      {
+        "value": 49,
+        "label": "Pole positions"
+      },
+      {
+        "value": 64,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DOOHAN Mick",
+    "data": [
+      {
+        "value": 54,
+        "label": "Victories"
+      },
+      {
+        "value": 31,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 58,
+        "label": "Pole positions"
+      },
+      {
+        "value": 46,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 5,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "READ Phil",
+    "data": [
+      {
+        "value": 52,
+        "label": "Victories"
+      },
+      {
+        "value": 44,
+        "label": "2nd places"
+      },
+      {
+        "value": 25,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 36,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 7,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "REDMAN Jim",
+    "data": [
+      {
+        "value": 45,
+        "label": "Victories"
+      },
+      {
+        "value": 33,
+        "label": "2nd places"
+      },
+      {
+        "value": 20,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 35,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 6,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "STONER Casey",
+    "data": [
+      {
+        "value": 45,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 27,
+        "label": "3rd places"
+      },
+      {
+        "value": 43,
+        "label": "Pole positions"
+      },
+      {
+        "value": 33,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BIAGGI Max",
+    "data": [
+      {
+        "value": 42,
+        "label": "Victories"
+      },
+      {
+        "value": 41,
+        "label": "2nd places"
+      },
+      {
+        "value": 28,
+        "label": "3rd places"
+      },
+      {
+        "value": 56,
+        "label": "Pole positions"
+      },
+      {
+        "value": 42,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MANG Anton",
+    "data": [
+      {
+        "value": 42,
+        "label": "Victories"
+      },
+      {
+        "value": 25,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 34,
+        "label": "Pole positions"
+      },
+      {
+        "value": 26,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 5,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "UBBIALI Carlo",
+    "data": [
+      {
+        "value": 39,
+        "label": "Victories"
+      },
+      {
+        "value": 20,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 34,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 9,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SURTEES John",
+    "data": [
+      {
+        "value": 38,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 34,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 7,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARTINEZ Jorge",
+    "data": [
+      {
+        "value": 37,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 42,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CADALORA Luca",
+    "data": [
+      {
+        "value": 34,
+        "label": "Victories"
+      },
+      {
+        "value": 22,
+        "label": "2nd places"
+      },
+      {
+        "value": 16,
+        "label": "3rd places"
+      },
+      {
+        "value": 29,
+        "label": "Pole positions"
+      },
+      {
+        "value": 30,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DUKE Geoff",
+    "data": [
+      {
+        "value": 33,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 29,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 6,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LAWSON Eddie",
+    "data": [
+      {
+        "value": 31,
+        "label": "Victories"
+      },
+      {
+        "value": 31,
+        "label": "2nd places"
+      },
+      {
+        "value": 16,
+        "label": "3rd places"
+      },
+      {
+        "value": 18,
+        "label": "Pole positions"
+      },
+      {
+        "value": 21,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BALLINGTON Kork",
+    "data": [
+      {
+        "value": 31,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 16,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TAVERI Luigi",
+    "data": [
+      {
+        "value": 30,
+        "label": "Victories"
+      },
+      {
+        "value": 33,
+        "label": "2nd places"
+      },
+      {
+        "value": 26,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 28,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CAPIROSSI Loris",
+    "data": [
+      {
+        "value": 29,
+        "label": "Victories"
+      },
+      {
+        "value": 34,
+        "label": "2nd places"
+      },
+      {
+        "value": 36,
+        "label": "3rd places"
+      },
+      {
+        "value": 41,
+        "label": "Pole positions"
+      },
+      {
+        "value": 32,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LAZZARINI Eugenio",
+    "data": [
+      {
+        "value": 27,
+        "label": "Victories"
+      },
+      {
+        "value": 35,
+        "label": "2nd places"
+      },
+      {
+        "value": 19,
+        "label": "3rd places"
+      },
+      {
+        "value": 35,
+        "label": "Pole positions"
+      },
+      {
+        "value": 15,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BIANCHI Pierpaolo",
+    "data": [
+      {
+        "value": 27,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 32,
+        "label": "Pole positions"
+      },
+      {
+        "value": 25,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SPENCER Freddie",
+    "data": [
+      {
+        "value": 27,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 33,
+        "label": "Pole positions"
+      },
+      {
+        "value": 24,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VIÑALES Maverick",
+    "data": [
+      {
+        "value": 25,
+        "label": "Victories"
+      },
+      {
+        "value": 23,
+        "label": "2nd places"
+      },
+      {
+        "value": 20,
+        "label": "3rd places"
+      },
+      {
+        "value": 24,
+        "label": "Pole positions"
+      },
+      {
+        "value": 22,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SCHWANTZ Kevin",
+    "data": [
+      {
+        "value": 25,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 29,
+        "label": "Pole positions"
+      },
+      {
+        "value": 26,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ANDERSON Hugh",
+    "data": [
+      {
+        "value": 25,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 25,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DOVIZIOSO Andrea",
+    "data": [
+      {
+        "value": 24,
+        "label": "Victories"
+      },
+      {
+        "value": 39,
+        "label": "2nd places"
+      },
+      {
+        "value": 40,
+        "label": "3rd places"
+      },
+      {
+        "value": 20,
+        "label": "Pole positions"
+      },
+      {
+        "value": 22,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RAINEY Wayne",
+    "data": [
+      {
+        "value": 24,
+        "label": "Victories"
+      },
+      {
+        "value": 22,
+        "label": "2nd places"
+      },
+      {
+        "value": 19,
+        "label": "3rd places"
+      },
+      {
+        "value": 16,
+        "label": "Pole positions"
+      },
+      {
+        "value": 23,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROBERTS Kenny",
+    "data": [
+      {
+        "value": 24,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 22,
+        "label": "Pole positions"
+      },
+      {
+        "value": 27,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VILLA Walter",
+    "data": [
+      {
+        "value": 24,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 21,
+        "label": "Pole positions"
+      },
+      {
+        "value": 20,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SHEENE Barry",
+    "data": [
+      {
+        "value": 23,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 16,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 20,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MELANDRI Marco",
+    "data": [
+      {
+        "value": 22,
+        "label": "Victories"
+      },
+      {
+        "value": 20,
+        "label": "2nd places"
+      },
+      {
+        "value": 20,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 16,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRESINI Fausto",
+    "data": [
+      {
+        "value": 21,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 17,
+        "label": "Pole positions"
+      },
+      {
+        "value": 13,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "IVY Bill",
+    "data": [
+      {
+        "value": 21,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 29,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CRIVILLE Alex",
+    "data": [
+      {
+        "value": 20,
+        "label": "Victories"
+      },
+      {
+        "value": 21,
+        "label": "2nd places"
+      },
+      {
+        "value": 25,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 20,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WALDMANN Ralf",
+    "data": [
+      {
+        "value": 20,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 15,
+        "label": "3rd places"
+      },
+      {
+        "value": 10,
+        "label": "Pole positions"
+      },
+      {
+        "value": 16,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PROVINI Tarquinio",
+    "data": [
+      {
+        "value": 20,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 26,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LAVADO Carlos",
+    "data": [
+      {
+        "value": 19,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 22,
+        "label": "Pole positions"
+      },
+      {
+        "value": 13,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HOCKING Gary",
+    "data": [
+      {
+        "value": 19,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 21,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TORMO Ricardo",
+    "data": [
+      {
+        "value": 19,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 23,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DÖRFLINGER Stefan",
+    "data": [
+      {
+        "value": 18,
+        "label": "Victories"
+      },
+      {
+        "value": 27,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 34,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 4,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GARDNER Wayne",
+    "data": [
+      {
+        "value": 18,
+        "label": "Victories"
+      },
+      {
+        "value": 20,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 19,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ANDERSSON Kent",
+    "data": [
+      {
+        "value": 18,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 20,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HARADA Tetsuya",
+    "data": [
+      {
+        "value": 17,
+        "label": "Victories"
+      },
+      {
+        "value": 26,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 21,
+        "label": "Pole positions"
+      },
+      {
+        "value": 21,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LUTHI Thomas",
+    "data": [
+      {
+        "value": 17,
+        "label": "Victories"
+      },
+      {
+        "value": 23,
+        "label": "2nd places"
+      },
+      {
+        "value": 25,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 19,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ELIAS Toni",
+    "data": [
+      {
+        "value": 17,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BINDER Brad",
+    "data": [
+      {
+        "value": 17,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KATO Daijiro",
+    "data": [
+      {
+        "value": 17,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KALLIO Mika",
+    "data": [
+      {
+        "value": 16,
+        "label": "Victories"
+      },
+      {
+        "value": 24,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 18,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ZARCO Johann",
+    "data": [
+      {
+        "value": 16,
+        "label": "Victories"
+      },
+      {
+        "value": 22,
+        "label": "2nd places"
+      },
+      {
+        "value": 16,
+        "label": "3rd places"
+      },
+      {
+        "value": 26,
+        "label": "Pole positions"
+      },
+      {
+        "value": 19,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TEROL Nicolas",
+    "data": [
+      {
+        "value": 16,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BAUTISTA Alvaro",
+    "data": [
+      {
+        "value": 16,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 18,
+        "label": "3rd places"
+      },
+      {
+        "value": 18,
+        "label": "Pole positions"
+      },
+      {
+        "value": 22,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "OLIVEIRA Miguel",
+    "data": [
+      {
+        "value": 16,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RINS Alex",
+    "data": [
+      {
+        "value": 15,
+        "label": "Victories"
+      },
+      {
+        "value": 23,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 17,
+        "label": "Pole positions"
+      },
+      {
+        "value": 17,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PONS Sito",
+    "data": [
+      {
+        "value": 15,
+        "label": "Victories"
+      },
+      {
+        "value": 16,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ESPARGARO Pol",
+    "data": [
+      {
+        "value": 15,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 22,
+        "label": "3rd places"
+      },
+      {
+        "value": 20,
+        "label": "Pole positions"
+      },
+      {
+        "value": 16,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DEGNER Ernst",
+    "data": [
+      {
+        "value": 15,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 13,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SAARINEN Jarno",
+    "data": [
+      {
+        "value": 15,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 18,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRAUN Dieter",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 18,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ANSCHEIDT Hans-Georg",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CECOTTO Johnny",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 22,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DE VRIES Jan",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 13,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BAGNAIA Francesco",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 13,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SIMONCELLI Marco",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 15,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RAUDIES Dirk",
+    "data": [
+      {
+        "value": 14,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MAMOLA Randy",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 25,
+        "label": "2nd places"
+      },
+      {
+        "value": 19,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "UEDA Noboru",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KOCINSKI John",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 20,
+        "label": "Pole positions"
+      },
+      {
+        "value": 15,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FENATI Romano",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 15,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RABAT Tito",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 16,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "IANNONE Andrea",
+    "data": [
+      {
+        "value": 13,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 10,
+        "label": "Pole positions"
+      },
+      {
+        "value": 17,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARQUEZ Alex",
+    "data": [
+      {
+        "value": 12,
+        "label": "Victories"
+      },
+      {
+        "value": 16,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 15,
+        "label": "Pole positions"
+      },
+      {
+        "value": 17,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "POGGIALI Manuel",
+    "data": [
+      {
+        "value": 12,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MIR Joan",
+    "data": [
+      {
+        "value": 12,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PASINI Mattia",
+    "data": [
+      {
+        "value": 12,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ANDERSON Fergus",
+    "data": [
+      {
+        "value": 12,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SAKATA Kazuto",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 23,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 29,
+        "label": "Pole positions"
+      },
+      {
+        "value": 19,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KATAYAMA Takazumi",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARTIN Jorge",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 27,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HAAS Werner",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MORBIDELLI Franco",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 14,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SIMMONDS Dave",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "UI Youichi",
+    "data": [
+      {
+        "value": 11,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 17,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GOULD Rodney",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 16,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRYANS Ralph",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 15,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HANSFORD Greg",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "QUARTARARO Fabio",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 19,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BARBERA Hector",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AZUMA Masao",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FERNANDEZ Raul",
+    "data": [
+      {
+        "value": 10,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 13,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GIBERNAU Sete",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 13,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GIANOLA Ezio",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SALOM Luis",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AOYAMA Hiroshi",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TALMACSI Gabor",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LOCATELLI Roberto",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 18,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AOKI Haruchika",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LOWES Sam",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 17,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SPAAN Hans",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MILLER Jack",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LOMAS Bill",
+    "data": [
+      {
+        "value": 9,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 14,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "REGGIANI Loris",
+    "data": [
+      {
+        "value": 8,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 19,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BASTIANINI Enea",
+    "data": [
+      {
+        "value": 8,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SIMON Julian",
+    "data": [
+      {
+        "value": 8,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 10,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LANSIVUORI Teuvo",
+    "data": [
+      {
+        "value": 8,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 12,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FAUBEL Hector",
+    "data": [
+      {
+        "value": 8,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MORTIMER Chas",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 15,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "JACQUE Olivier",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 15,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 17,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SARRON Christian",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BARROS Alex",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 14,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CORTESE Sandro",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 10,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ARMSTRONG Reg",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VAN KESSEL Henk",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CARRUTHERS Kel",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRADL Stefan",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VINCENT Arnaud",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LORENZETTI Enrico",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PORTO Sebastian",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CECCHINELLO Lucio",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "EKEROLD Jonnie",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "UNCINI Franco",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FOGGIA Dennis",
+    "data": [
+      {
+        "value": 7,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PASOLINI Renzo",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "OKADA Tadayuki",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 16,
+        "label": "2nd places"
+      },
+      {
+        "value": 14,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CANET Aron",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 10,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BEZZECCHI Marco",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MASETTI Umberto",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MANAKO Tomomi",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GARDNER Remy",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NAKANO Shinya",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LUCCHINELLI Marco",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GARCIA Sergio",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROMBONI Doriano",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PHILLIS Tom",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AMM Ray",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARINI Luca",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BERTIN Guy",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LIBERATI Libero",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ARENAS Albert",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TOERSEN Aalt",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ACOSTA Pedro",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HERWEH Manfred",
+    "data": [
+      {
+        "value": 6,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HARTLE John",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 21,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "UKAWA Tohru",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 17,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCINTYRE Bob",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 9,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KNEUBÜHLER Bruno",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 15,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CARDÚS Carlos",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KAVANAGH Ken",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 11,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BALDÉ Jean Francois",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DALLA PORTA Lorenzo",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DE PUNIET Randy",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRADL Helmut",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PERUGINI Stefano",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FOLGER Jonas",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "OETTL Peter",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AUINGER August",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DI MEGLIO Mike",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SANDFORD Cecyl",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 2,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NIETO Fonsi",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MASIA Jaume",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BALDASSARRI Lorenzo",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CORSI Simone",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TOKUDOME Masaki",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HARTOG Wil",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CHILI Pierfrancesco",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FRITH Freddie",
+    "data": [
+      {
+        "value": 5,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DE ANGELIS Alex",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 19,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 11,
+        "label": "Pole positions"
+      },
+      {
+        "value": 18,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ALZAMORA Emilio",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 13,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROLFO Roberto",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "JANSSON Borje",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DE RADIGUES Didier",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 12,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RITTBERGER Herbert",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DODDS John",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "REDDING Scott",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ARBOLINO Tony",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PARLOTTI Gilberto",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KATAYAMA Yoshimi",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RUFFO Bruno",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 3,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "STASTNY Franta",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SARRON Dominique",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 7,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HERRERO Santiago",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TAKAHASHI Kuninitsu",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VIETTI Celestino",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ANTONELLI Niccolò",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PAGANI Nello",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WAIBEL Gerhard",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SMITH Barry",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LODEWIJKX Paul",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DRAPAL Janos",
+    "data": [
+      {
+        "value": 4,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SMITH Bradley",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": 9,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DI GIANNANTONIO Fabio",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 10,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FINDLAY Jack",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 13,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DUFF Mike",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 12,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PERRIS Frank",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROTH Reinhold",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROBB Tommy",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 18,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CORNU Jacques",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRASSETTI Silvio",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 11,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PAGANI Alberto",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROUGERIE Michel",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BEATTIE Daryl",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HAYDEN Nicky",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 19,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 7,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FERNANDEZ Patrick",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 17,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CRUTCHLOW Cal",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GADEA Sergio",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WIMMER Martin",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 8,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCPHEE John",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KANAYA Hideo",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BUSCHERINI Otello",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 8,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HENNEN Pat",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ABE Norick",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 10,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GARRIGA Juan",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 11,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TIMMER Theo",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TAKAHASHI Yuki",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MILANI Alfredo",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRAMIGNI Alessandro",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RUGGIA Jean Philippe",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRANT Mike",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MENDOGNI Emilio",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SANNA Simone",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROSSI Graziano",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAMS Charlie",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CANN Maurice",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FERNANDEZ Augusto",
+    "data": [
+      {
+        "value": 3,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CHECA Carlos",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HERREROS Manuel",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 12,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SHEPHERD Alan",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NAVARRO Jorge",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BONERA Gianfranco",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRAHAM Stuart",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 7,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VAZQUEZ Efren",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FERRARI Virginio",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DALE Dickie",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BERGAMONTI Angelo",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NAKAGAMI Takaaki",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HERRON Tom",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PETRUCCI Danilo",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PALAZZESE Ivan",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ITOH Mitsuo",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 8,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MIGNO Andrea",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PESEK Lukas",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DORAN William",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DEBON Alex",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 4,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WOOD Tommy",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RAMIREZ Marcos",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SAUL Eric",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MONNERET Pierre",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VITALI Maurizio",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 5,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WEST Anthony",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RUTTER Tony",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TAMADA Makoto",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SCALVINI Gianluigi",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HUBERTS Jan",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CAÑELLAS Salvador",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SUZUKI Tatsuki",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MIDDELBURG Jack",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MASBOU Alexis",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GANDOSSI Alberto",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TORRONTEGUI Herri",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WHEELER Arthur",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCCANDLESS Cromie",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PAWI Khairul Idham",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KASSNER Helmut",
+    "data": [
+      {
+        "value": 2,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VENTURI Remo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 14,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 3,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CASANOVA Bruno",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MOLLOY Ginger",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 9,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAMS Peter",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 8,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FREYMOND Roland",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FERRI Romolo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 6,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KOYAMA Tomoyoshi",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 5,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRETT Jack",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "COLEMAN Rod",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SCHURGERS Jos",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TOURNADRE Jean Louis",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LEGA Mario",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": 1,
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRIGAGLIA Domenico",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GRAF Ulrich",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 4,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PREIN Stefan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MINTER Derek",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VERMEULEN Chris",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BINDER Darryn",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 6,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BELL Artie",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ITO Fumio",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 3,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KORHONEN Pentti",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "WILLIAMS John",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SCHNEIDER Bert",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MARSOVSZKY Gyula",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AOKI Nobuatsu",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CHEVALLIER Olivier",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCCONNACHIE Ian",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SPIES Ben",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NORTH Alan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 6,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LUCCHI Marcellino",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SELINI Jean Claude",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BOLLE Jacques",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SIMEON Xavier",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VAN DULMEN Boet",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SPAGGIARI Bruno",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KISSLING Jorge",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ZEELENBERG Wilco",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 9,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PUIG Alberto",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 7,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NIETO Pablo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 5,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AHEARN Jack",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 6,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AEGERTER Dominique",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 5,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCWILLIAMS Jeremy",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NEWCOMBE Kim",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ESPARGARO Aleix",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 3,
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CALDARELLA Benedicto",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TOBA Kaito",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TANAKA Kenjiro",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CONFORTI Pier Luigi",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GUILLEUX Herve",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "OETTL Philipp",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CRAFAR Simon",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AGOSTINI Duilio",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CLUZEL Jules",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TORRES Jordi",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BRUINS Jan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FÜGNER Horst",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TOMIZAWA Shoya",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GUEVARA Izan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 4,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NAGASHIMA Tetsuta",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CHANTRA Somkiat",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 2,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LOI Livio",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NEWBOLD John",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": 1,
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CREITH R.",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GOI Ivan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FILICE Jim",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "GUSTAFSSON Leif",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "COLNAGO Giuseppe",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CASOLI Paolo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BAYLISS Troy",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "RICCI Fausto",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "VAN DONGEN Cees",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 4,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CELSO-SANTOS Adu",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "DANIELL Harold",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 2,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROBERTS Joe",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 3,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "TAIRA Tadahiko",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 2,
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LACONI Regis",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "PIRRO Michele",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": 1,
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ARTIGAS Xavier",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KOBAYASHI Masaru",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MCCULLOUGH Ray",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ABRAHAM Karel",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "NASH Godfrey",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "HASEGAWA Horoshi",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "EMMERICH Ingo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "KAFKA Gerd",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "COPETA Angelo",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "JEFFERIES Tony",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": 1,
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CARTER Alan",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 2,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BALLERINI Andrea",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "STOELLINGER Edi",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "SALA Guido",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MIYAZAKI Osamu",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "REITMAIER Fritz",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ÖNCÜ Can",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "MUDFORD Ken",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CZIHAK Edmund",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": 1,
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "BARRINGTON Manliefe",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "IRELAND Dennis",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "ROSSI Louis",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "LEONI Guido",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "FELGENHEIER Roland",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "AUREAL Jean",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  },
+  {
+    "name": "CARPENTER Phil",
+    "data": [
+      {
+        "value": 1,
+        "label": "Victories"
+      },
+      {
+        "value": "",
+        "label": "2nd places"
+      },
+      {
+        "value": "",
+        "label": "3rd places"
+      },
+      {
+        "value": "",
+        "label": "Pole positions"
+      },
+      {
+        "value": "",
+        "label": "Race fastest laps"
+      },
+      {
+        "value": "",
+        "label": "World Championships"
+      }
+    ]
+  }
+]
