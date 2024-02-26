@@ -8,7 +8,7 @@ import { Picker } from '@react-native-picker/picker';
 import pickerData from '../data/winners.json';
 
 LogBox.ignoreLogs(['Warning: Failed prop type: Invalid prop `data` supplied to `YAxis`, expected one of type [object, number].',
-'Warning: Failed prop type: Invalid prop `data[0]` supplied to `XAxis`, expected one of type [number, object].'
+    'Warning: Failed prop type: Invalid prop `data[0]` supplied to `XAxis`, expected one of type [number, object].'
 ]);
 
 const pickerClass = [...new Set(pickerData.map(item => item.Class))];
@@ -31,7 +31,7 @@ export default class Statictics extends Component {
             selectedCircuit: pickerCircuit[0],
             uniqueCircuits: pickerCircuit,
             selectedDriverOrConstr: "Riders",
-            selectedRider: '',
+            selectedRider: 'Jaume Masia',
             victoriesPerSeason: {},
             searchText: '',
         };
@@ -87,16 +87,7 @@ export default class Statictics extends Component {
 
     calculateVictoriesPerSeason = (filter, filterRider) => {
         let filteredData = filter === 'All' ? tableData : tableData.filter(dataRow => dataRow[1] === filter);
-        
-        if (pickerRider.includes(filterRider))
-            filteredData = filteredData.filter(dataRow => dataRow[4] === filterRider);
-
-        else if(pickerRider.filter(r => r.toLowerCase().includes(this.state.searchText.toLowerCase()))[0]){
-            filterRider = pickerRider.filter(r => r.toLowerCase().includes(this.state.searchText.toLowerCase()))[0];
-            filteredData = filteredData.filter(dataRow => dataRow[4] === filterRider);
-        }
-            
-        else filteredData = filteredData.filter(dataRow => dataRow[4] === pickerRider[0]);
+        filteredData = filteredData.filter(dataRow => dataRow[4] === this.state.selectedRider);
 
         const victoriesPerSeason = {};
         for (let i = 0; i < filteredData.length; i++) {
@@ -108,7 +99,7 @@ export default class Statictics extends Component {
                 victoriesPerSeason[season] = 1;
             }
         }
-        this.setState({ selectedRider: filterRider});
+
         this.setState({ victoriesPerSeason });
     }
 
@@ -142,8 +133,9 @@ export default class Statictics extends Component {
     }
 
     handleRiderChange = (itemValue) => {
-        this.setState({ selectedRider: itemValue });
-        this.calculateVictoriesPerSeason(this.state.selectedFilter, itemValue);
+        this.setState({ selectedRider: itemValue }, () => {
+            this.calculateVictoriesPerSeason(this.state.selectedFilter, itemValue);
+        })
     }
 
     handleRidersOrConstrChange = (itemValue) => {
@@ -152,11 +144,11 @@ export default class Statictics extends Component {
     }
 
     handleSearch = (itemValue) => {
+        this.setState({ selectedRider: pickerRider.filter(r => r.toLowerCase().includes(itemValue.toLowerCase()))[0] })
         this.setState({ searchText: itemValue }, () => {
             this.calculateVictoriesPerSeason(this.state.selectedFilter, itemValue);
         });
     }
-
 
     render() {
         const { topSixConstructors, topTenDrivers, isGraphVisible, isDriverGraphVisible, selectedFilter, uniqueClasses, selectedCircuit, uniqueCircuits, isDriverOnCircuitGraphVisible, topFiveDriversOnCircuit, isDriverPerSeasonGraphVisible, selectedRider, victoriesPerSeason } = this.state;
