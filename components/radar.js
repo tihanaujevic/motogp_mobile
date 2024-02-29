@@ -110,7 +110,7 @@ const RadarChart = () => {
                 textAnchor={x < viewBoxCenter ? "end" : "start"}
                 transform={`rotate(${rotation} ${x + labelOffsetX} ${adjustedY})`}
               >
-                {radarData[i].label}
+                {radarData[i].label === "Victories" ? "Wins" : radarData[i].label}
               </Text>
             </React.Fragment>
           );

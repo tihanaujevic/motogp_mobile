@@ -231,7 +231,7 @@ export default class Statictics extends Component {
                     </TouchableOpacity>
                     {isGraphVisible && (
                         <View>
-                            <Text style={styles.title}>Top Six Constructors with Most Victories</Text>
+                            <Text style={styles.title}>Top Six Constructors with Most Wins</Text>
                             <View style={{ height: 300, flexDirection: 'row' }}>
                                 <YAxis
                                     data={constructorValues}
@@ -269,7 +269,7 @@ export default class Statictics extends Component {
                     </TouchableOpacity>
                     {isDriverGraphVisible && (
                         <View>
-                            <Text style={styles.title}>Top Ten Riders with Most Victories</Text>
+                            <Text style={styles.title}>Top Ten Riders with Most Wins</Text>
                             <View style={{ height: 300, flexDirection: 'row' }}>
                                 <YAxis
                                     style={{ marginBottom: 10 }}
@@ -307,7 +307,7 @@ export default class Statictics extends Component {
                         </View>
                     )}
                     <TouchableOpacity onPress={this.toggleDriverOnCircuitGraphVisibility} style={styles.button}>
-                        <Text style={styles.buttonText}>{isDriverOnCircuitGraphVisible ? 'Hide Victories at Circuit Graph' : 'Show Victories at Circuit Graph'}</Text>
+                        <Text style={styles.buttonText}>{isDriverOnCircuitGraphVisible ? 'Hide Wins at Circuit Graph' : 'Show Wins at Circuit Graph'}</Text>
                     </TouchableOpacity>
                     {isDriverOnCircuitGraphVisible && (
                         <View>
@@ -328,7 +328,7 @@ export default class Statictics extends Component {
                                 <Picker.Item label="Riders" value="Riders" />
                                 <Picker.Item label="Constructors" value="Constructors" />
                             </Picker>
-                            <Text style={styles.title}>Top Five {this.state.selectedDriverOrConstr} with Most Victories at {selectedCircuit}</Text>
+                            <Text style={styles.title}>Top Five {this.state.selectedDriverOrConstr} with Most Wins at {selectedCircuit}</Text>
                             <View style={{ height: 300, flexDirection: 'row' }}>
                                 <YAxis
                                     style={{ marginBottom: 10 }}
@@ -366,7 +366,7 @@ export default class Statictics extends Component {
                         </View>
                     )}
                     <TouchableOpacity onPress={this.toggleDriverPerSeasonGraphVisibility} style={styles.button}>
-                        <Text style={styles.buttonText}>{isDriverPerSeasonGraphVisible ? 'Hide Victories per Season Graph' : 'Show Victories per Season Graph'}</Text>
+                        <Text style={styles.buttonText}>{isDriverPerSeasonGraphVisible ? 'Hide Wins per Season Graph' : 'Show Wins per Season Graph'}</Text>
                     </TouchableOpacity>
                     {isDriverPerSeasonGraphVisible && (
                         <View>
